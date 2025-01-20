@@ -1,4 +1,4 @@
-# Como fazer uma LANDING PAGE responsiva e animada
+# LANDING PAGE responsiva e animada
 
 Este repositório contém o código de uma **landing page responsiva e animada** criada com **HTML**, **CSS** e **JavaScript (JQuery)**. O projeto tem como objetivo criar uma página de aterrissagem moderna, que se adapta a diferentes tamanhos de tela e inclui animações para melhorar a experiência do usuário.
 
